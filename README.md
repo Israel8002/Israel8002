@@ -1,12 +1,5 @@
 <div align="center">
-# 📈 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Israel8002&theme=tokyonight"/>
-
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 # 📬 Contacto
 
 <div align="center">
