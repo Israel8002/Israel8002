@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="documentation/readme_banner.png" alt="SME Telemetry Banner" width="100%" />
+  <img src="readme_banner.png" alt="SME Telemetry Banner" width="100%" />
 </p>
 <div align="center">
 # ☕ Support
