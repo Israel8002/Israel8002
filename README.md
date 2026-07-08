@@ -3,9 +3,6 @@
 # ☕ Support
 
 Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repositorio.
-
----
-
 <div align="center">
 
 ### 🚀 *"Build. Learn. Automate. Repeat."*
