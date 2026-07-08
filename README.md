@@ -32,8 +32,6 @@ Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repos
 | 🚀 DevOps | ███████░░░ |
 | 🧠 Arquitectura | ████████░░ |
 
-## 💙 Thanks for visiting my profile!
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=140&section=footer"/>
 
 ### ⭐ If you like my work, consider following me and starring my repositories!
