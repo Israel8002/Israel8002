@@ -15,7 +15,7 @@ Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repos
 
 <div align="center">
 
-### 🚀 *"Build. Learn. Automate. Repeat."*
+### *"AUTOMATIZACIONES WEB Y SISTEMAS DE GESTION"*
 
 </div>
 
@@ -35,7 +35,6 @@ Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repos
 | ⚙️ Backend | ██████████ |
 | 🗄️ Bases de datos | █████████░ |
 | ☁️ Cloud | ████████░░ |
-| 🐳 Docker | ████████░░ |
 | 📱 PWA | ██████████ |
 | 🤖 IA aplicada | █████████░ |
 | 🔒 Seguridad | ████████░░ |
