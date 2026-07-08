@@ -2,7 +2,7 @@
 
 # ☕ Support
 
-Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repositorio. ¡Tu apoyo ayuda a seguir creando software de calidad!
+Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repositorio.
 
 ---
 
