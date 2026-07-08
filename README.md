@@ -3,6 +3,9 @@
   <img src="readme_banner.png" alt="SME Telemetry Banner" width="100%" />
 </p>
 <div align="center">
+
+<iframe src="https://github.com/sponsors/Israel8002/button" title="Sponsor Israel8002" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  
 # ☕ Support
 
 Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repositorio.
