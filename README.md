@@ -1,4 +1,5 @@
 <div align="center">
+![SME Telemetry Banner](documentation/readme_banner.png)
 
 # ☕ Support
 
