@@ -1,6 +1,8 @@
-<div align="center">
-![SME Telemetry Banner](documentation/readme_banner.png)
 
+<p align="center">
+  <img src="documentation/readme_banner.png" alt="SME Telemetry Banner" width="100%" />
+</p>
+<div align="center">
 # ☕ Support
 
 Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repositorio.
