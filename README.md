@@ -16,8 +16,19 @@ Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repos
 <div align="center">
 
 ### *"AUTOMATIZACIONES WEB Y SISTEMAS DE GESTION"*
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+### Desarrollo de software y automatizaciónes
 </div>
+<img src="https://img.shields.io/badge/Version-1.0-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-En%20Desarrollo-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-22.x-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+
 
 # 🐍 Contribution Snake
 
@@ -26,20 +37,6 @@ Si alguno de mis proyectos te resulta útil, considera dejar una ⭐ en el repos
 ![Snake animation](https://github.com/Israel8002/Israel8002/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-# 📊 Perfil de Desarrollo
-
-| Área | Nivel |
-|------|:-----:|
-| 💻 Frontend | ██████████ |
-| ⚙️ Backend | ██████████ |
-| 🗄️ Bases de datos | █████████░ |
-| ☁️ Cloud | ████████░░ |
-| 📱 PWA | ██████████ |
-| 🤖 IA aplicada | █████████░ |
-| 🔒 Seguridad | ████████░░ |
-| 🚀 DevOps | ███████░░░ |
-| 🧠 Arquitectura | ████████░░ |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=140&section=footer"/>
 
